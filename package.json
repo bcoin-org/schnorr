@@ -1,6 +1,6 @@
 {
   "name": "schnorr",
-  "version": "0.5.3",
+  "version": "0.6.0",
   "description": "Schnorr signatures for javascript",
   "keywords": [
     "crypto",
